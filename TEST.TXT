@@ -1,1 +1,3 @@
 Hello World!!
+git remote add origin https://github.com/shanth12/utils_misc.git
+git push -u origin master
